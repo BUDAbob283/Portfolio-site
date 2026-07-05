@@ -14,7 +14,7 @@ export const projectThumbnails = {
   Promovideo: '/images/thumbnails/Promovideo.png',
   ShirtReveal: '/images/thumbnails/ShirtReveal.jpg',
   BeobankSponsorEvent: '/images/thumbnails/BeobankSponsorEvent.jpg',
-  WonderDesignExchange: '/images/thumbnails/WonderDesignExchange-scaled.webp',
+  WonderDesignExchange: '/images/thumbnails/DRK_Wonder_18-scaled.webp',
   BuildingBasedonBioBased: '/images/thumbnails/BBoBB_Thumbnail_1_1.jpg',
   SterkeStemmen: '/images/thumbnails/Sterke stemmen.jpg',
   
