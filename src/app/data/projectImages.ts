@@ -9,14 +9,14 @@ export const projectThumbnails = {
   // Video project thumbnails
   HistoricTen: '/images/thumbnails/Knack-scaled.jpg',
   SamynWonenPromo: '/images/thumbnails/SamynWonenPromo.jpg',
-  DranouterShowcase: '/images/thumbnails/Showcase-festival-scaled.png',
+  DranouterShowcase: '/images/thumbnails/Showcase-festival.jpg',
   DranouterFestival: '/images/thumbnails/DranouterPhotographyThumbnail.jpg',
   Promovideo: '/images/thumbnails/Promovideo.png',
   ShirtReveal: '/images/thumbnails/ShirtReveal.jpg',
-  BeobankSponsorEvent: '/images/thumbnails/BeobankSponsorEvent.jpg',
+  BeobankSponsorEvent: '/images/thumbnails/BeobankSponsorEvent.png',
   WonderDesignExchange: '/images/thumbnails/DRK_Wonder_18-scaled.webp',
   BuildingBasedonBioBased: '/images/thumbnails/BBoBB_Thumbnail_1_1.jpg',
-  SterkeStemmen: '/images/thumbnails/Sterke stemmen.jpg',
+  SterkeStemmen: '/images/thumbnails/Sterke-stemmen.jpg',
   
   // Social project images
   KnackVolleySocial: '/images/thumbnails/SocialContent_thumbnail.webp',
