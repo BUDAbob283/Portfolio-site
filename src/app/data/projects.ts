@@ -213,27 +213,14 @@ export const allProjects: Project[] = [
   {
     id: 13,
     type: 'photo',
-    title: 'Photography Assignment',
-    description: 'A photo gallery documenting the Design Regio Kortrijk assignment in Frankfurt.',
-    date: '15/05/2026',
-    tags: ['Photography', 'Assignment', 'Design'],
-    client: 'Design Regio Kortrijk',
-    image: projectThumbnails.DranouterFestival,
-    gallery: {
-      images: galleryImages.DranouterPhotography.map(url => ({ url }))
-    }
-  },
-  {
-    id: 14,
-    type: 'design',
     title: 'Design Journey Frankfurt',
     description: 'A gallery documenting the Design Regio Kortrijk journey in Frankfurt.',
-    date: '22/05/2026',
-    tags: ['Design', 'Photography', 'Journey'],
+    date: '09/06/2026',
+    tags: ['Event', 'Photography', 'Journey'],
     client: 'Design Regio Kortrijk',
-    image: projectThumbnails.WonderDesignExchange,
+    image: projectThumbnails.FrankfurtDesignJourney,
     gallery: {
-      images: galleryImages.WonderDesignExchange.map(url => ({ url }))
+      images: galleryImages.FrankfurtDesignJourney.map(url => ({ url }))
     }
   },
 ];
