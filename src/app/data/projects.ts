@@ -197,4 +197,43 @@ export const allProjects: Project[] = [
     mediaType: 'linkedin',
     mediaUrl: 'urn:li:ugcPost:7455252725853917184'
   },
+  {
+    id: 12,
+    type: 'video',
+    title: 'Circular And Systemic Design - Howest',
+    coverImage: projectBanners.HowestCSD,
+    description: 'Anouncement video for the Circular and Systemic Design program at Howest. The video was created to promote the program and attract new students.',
+    date: '19/06/2026',
+    tags: ['Promotional', 'Videography'],
+    client: 'Howest',
+    image: projectThumbnails.HowestCSD,
+    mediaType: 'youtube',
+    mediaUrl: 'v=va95EUcXDV0'
+  },
+  {
+    id: 13,
+    type: 'photo',
+    title: 'Photography Assignment',
+    description: 'A photo gallery documenting the Design Regio Kortrijk assignment in Frankfurt.',
+    date: '15/05/2026',
+    tags: ['Photography', 'Assignment', 'Design'],
+    client: 'Design Regio Kortrijk',
+    image: projectThumbnails.DranouterFestival,
+    gallery: {
+      images: galleryImages.DranouterPhotography.map(url => ({ url }))
+    }
+  },
+  {
+    id: 14,
+    type: 'design',
+    title: 'Design Journey Frankfurt',
+    description: 'A gallery documenting the Design Regio Kortrijk journey in Frankfurt.',
+    date: '22/05/2026',
+    tags: ['Design', 'Photography', 'Journey'],
+    client: 'Design Regio Kortrijk',
+    image: projectThumbnails.WonderDesignExchange,
+    gallery: {
+      images: galleryImages.WonderDesignExchange.map(url => ({ url }))
+    }
+  },
 ];
